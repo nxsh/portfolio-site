@@ -1,0 +1,56 @@
+.header {
+    //padding: 1rem 0 3rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.title {
+    color: #333;
+    font-size: 2.5rem;
+    font-family: Playfair Display;
+    // My changes
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.5rem;
+}
+
+.link {
+    color: #999999;
+}
+
+.navContainer {
+    //padding-left: 1rem;
+    padding-left: 30px;
+    display: flex;
+    // My changes
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: auto;
+    text-align: right;
+    margin-top: auto;
+    font-family: Playfair Display, serif;
+}
+
+.navList {
+    display: flex; // stack left to right
+    list-style-type: none; // no bullet points
+    margin: 0; // clear margin values lists have by default
+}
+
+.navItem {
+    color: #999;
+    font-size: .9rem;
+    margin-left: 1.3rem;
+    text-decoration: none;
+}
+
+.navItem:hover {
+    color: #666;
+    font-style: italic;
+}
+
+.activeNavItem {
+    color: #333;
+}
+

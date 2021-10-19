@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-js",
+    "path": "/blog/2021-01-28-latex-and-word",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Understanding Recursion","date":"January 28, 2021"},"html":"<h1>Writing LaTex</h1>\n<ul>\n<li>Essay templates</li>\n<li>alias for new essay</li>\n<li>Use vim and goyo</li>\n<li>Vim works well with vimtex, disabled default wordcount as it is inaccurate</li>\n<li>Correct word count works on file save, but I want to see it in the airline status bar</li>\n<li>Works using vimtex's implementation of texcount, but causes stuttering as it is ran constantly\n<ul>\n<li>Need to find a way to run this on file open and save, not constantly</li>\n</ul>\n</li>\n</ul>\n<h1>Converting to Word</h1>\n<ul>\n<li>pandoc with citeproc and csl files</li>\n<li>zsh function</li>\n</ul>"}},"pageContext":{"slug":"2021-01-28-latex-and-word"}},
+    "staticQueryHashes": ["3159585216","440568431"]}
