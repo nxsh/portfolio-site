@@ -1,2 +1,12 @@
-.DS_Store
+# dotenv environment variables file
+.env
+
+# node files
 node_modules/
+
+# gatsby files
+.cache/
+public
+
+# Mac files
+.DS_Store
