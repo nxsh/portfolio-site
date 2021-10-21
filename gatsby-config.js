@@ -11,6 +11,7 @@ module.exports = {
     author: "Ryan Nash",
   },
   plugins: [
+    "gatsby-plugin-typescript",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
     "gatsby-plugin-sharp",
@@ -56,4 +57,4 @@ module.exports = {
       },
     },
   ],
-}
+};

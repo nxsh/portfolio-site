@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-post-js",
-    "path": "/blog/2019-06-13-cultivating-good-habits",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Cultivating Good Habits","date":"June 14, 2019"},"html":"<p>In this blog post I want to talk about <em>habits</em>.</p>"}},"pageContext":{"slug":"2019-06-13-cultivating-good-habits"}},
-    "staticQueryHashes": ["3159585216","440568431"]}

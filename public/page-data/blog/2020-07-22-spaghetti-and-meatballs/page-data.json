@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-post-js",
-    "path": "/blog/2020-07-22-spaghetti-and-meatballs",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Spaghetti and Meatballs Ⓥ","date":"July 22, 2020"},"html":"<h1>Ingredients</h1>\n<ul>\n<li>Onion</li>\n<li>Garlic</li>\n<li>Chestnut mushrooms</li>\n<li>Meatballs or an alternative</li>\n<li>One can of chopped tomatoes</li>\n<li>Spinach</li>\n<li>Fresh chopped chillies</li>\n<li>Fresh rosemary</li>\n<li>Fresh basil</li>\n<li>Spaghetti pasta</li>\n<li>Salt and pepper to taste</li>\n<li>Garlic bread on side</li>\n</ul>"}},"pageContext":{"slug":"2020-07-22-spaghetti-and-meatballs"}},
-    "staticQueryHashes": ["3159585216","440568431"]}

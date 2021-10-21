@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-post-js",
-    "path": "/blog/2019-05-13-talking-to-yourself",
-    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Talking to Yourself","date":"May 13, 2019"},"html":"<p>Talking to yourself may be considered an odd behaviour to have, however it gives us a way to understand who we are and how our mind works.</p>\n<p>Self-talk must be positive and supportive, never belittling or berating.</p>"}},"pageContext":{"slug":"2019-05-13-talking-to-yourself"}},
-    "staticQueryHashes": ["3159585216","440568431"]}
