@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkRN_React_Gatsby_Blog=self.webpackChunkRN_React_Gatsby_Blog||[]).push([[682],{5518:function(e,t,l){l.r(t);var n=l(7294),u=l(1620),a=l(4695);t.default=function(){return n.createElement(u.Z,null,n.createElement(a.Z,{title:"About"}),n.createElement("h2",null,"About me"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-6fe13bb8ff2e2068c464.js.map
