@@ -12,7 +12,7 @@ It is also surprisingly difficult to wrap your head around, I know it was for me
 
 # Recursive Array Sum
 
-Below is a recursive `python` function to sum a given array:
+Below is a recursive `python`  function to sum a given array:
 
 ```python
 def recursiveSum(arr):

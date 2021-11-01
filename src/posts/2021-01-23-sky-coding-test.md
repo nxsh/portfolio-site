@@ -24,7 +24,7 @@ Given two passwords: keyboard951 and 12345drone, each containing 6 of the correc
 Method: find the password that shares the most characters with **both** of the given passwords
 
 <details> 
-  <summary>Answer</summary>
+  <summary>Click <b>here</b> for answer</summary>
    brandnew12
 </details><br>
 
@@ -37,12 +37,11 @@ B+B-A = 15
 
 C+C-B = 6
 
-
 <details> 
-  <summary>Answer</summary>
-   A = 9 
-   B = 12
-   C = 9 
+  <summary>Click <b>here</b> for answer</summary>
+   A = 9<br>
+   B = 12<br>
+   C = 9
 </details><br>
 
 # Algebraic Problem 2
@@ -53,13 +52,13 @@ X+X+(Y * Y * Y) = 51
 
 Z+Z+(Z * Y) = 25
 
-
 <details> 
-  <summary>Answer</summary>
-   X = 12 
-   Y = 3 
+  <summary>Click <b>here</b> for answer</summary>
+   X = 12<br>
+   Y = 3<br>
    Z = 5 (a+a+a+a+a = 25)
 </details><br>
+
 I passed this stage and was met then with a coding test, hosted on [Codility](codility.com) which was comprised of the following questions.
 
 # Task 1: 

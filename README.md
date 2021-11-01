@@ -2,12 +2,13 @@
 [Great Gatsby Bootcamp](https://www.youtube.com/watch?v=8t0vNu2fCCM)
 
 # Todo 
-* Learn Flexbox for layout
-* Create a flexbox footer
-* Hamburger menu for mobile
-* Light/dark mode
-* Create an email form on contact page
-* Remove window controls from code snippet window, try overriding css
+- [] Learn Flexbox for layout
+- [] Create a flexbox footer
+- [] Hamburger menu for mobile
+- [] Light/dark mode
+- [] Create an email form on contact page
+- [x] Remove window controls from code snippet 
+- [] When rendering markdown, the dropdown triangle is missing from detail/summary components, why?
 
 # Improvements
 

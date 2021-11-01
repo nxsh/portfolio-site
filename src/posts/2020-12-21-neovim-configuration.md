@@ -29,7 +29,7 @@ date: 2020-12-21
   ```
 - Open up the **neovim** config file at `~/.config/nvim/init.vim`
   - Set up the plugin section by adding 
-  ```vimscript 
+  ```
   call plug#begin("~/.vim/plugged")
   " Plugin Section
   call plug#end()
