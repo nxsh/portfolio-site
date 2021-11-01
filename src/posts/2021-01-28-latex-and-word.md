@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding Recursion" 
+title: "LaTeX and Word" 
 categories: development
 date: 2021-01-28
 --- 
