@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-js",
+    "path": "/blog/2019-06-15-changes-for-a-happier-mind",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Simple Changes for a Happier Mind","date":"June 15, 2019"},"html":"<ul>\n<li>Tech off two hours before sleeping</li>\n<li>Mindless browsing of reddit/twitter etc</li>\n<li>Take time to get to know yourself</li>\n<li>Meditate</li>\n<li>In our current age, our brains want constant stimuli, we want to be occupied. We can chose to occupy ourselves with long-term positives.</li>\n</ul>"}},"pageContext":{"slug":"2019-06-15-changes-for-a-happier-mind"}},
+    "staticQueryHashes": ["3159585216","440568431"]}

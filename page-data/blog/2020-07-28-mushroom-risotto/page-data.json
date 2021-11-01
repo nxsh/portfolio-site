@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-js",
+    "path": "/blog/2020-07-28-mushroom-risotto",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Mushroom and Asparagus Risotto Ⓥ","date":"July 20, 2020"},"html":"<h2>Ingredients</h2>\n<h3>Vegetables</h3>\n<ul>\n<li>Onion</li>\n<li>Garlic</li>\n<li>Ginger</li>\n<li>Chestnut mushrooms</li>\n<li>Asparagus</li>\n<li>Spinach</li>\n</ul>\n<h3>Sauces/Stock</h3>\n<ul>\n<li>White wine</li>\n<li>Vegetable stock</li>\n</ul>\n<h3>Starch</h3>\n<ul>\n<li>Risotto rice</li>\n</ul>\n<h3>Seasoning</h3>\n<ul>\n<li>Salt and pepper to taste</li>\n<li>Fresh rosemary</li>\n<li>Fresh basil</li>\n</ul>"}},"pageContext":{"slug":"2020-07-28-mushroom-risotto"}},
+    "staticQueryHashes": ["3159585216","440568431"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-js",
+    "path": "/blog/2021-02-5-hosting-your-own-webserver",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Hosting your Own Web Server","date":"February 05, 2021"},"html":"<p>A personal or portfolio site is something I would recommend everyone has. While there are many options for third-party hosting and email servers, this post will detail how I set up a personal website on my own web server, with a mail server.</p>\n<p>Previously I used a combination of Github Pages, CloudFlare, and MXRoute to achieve a HTTPS secured personal blog and secure email server, but I thought it would be both interesting and educational to to set up my very own corner of the internet independent of these services.</p>"}},"pageContext":{"slug":"2021-02-5-hosting-your-own-webserver"}},
+    "staticQueryHashes": ["3159585216","440568431"]}
