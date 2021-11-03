@@ -13,6 +13,7 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 0.5rem;
+    padding-bottom: 0;
 }
 
 .link {
@@ -28,7 +29,6 @@
     align-items: center;
     margin-left: auto;
     text-align: right;
-    margin-top: auto;
     font-family: Playfair Display, serif;
 }
 
@@ -36,6 +36,11 @@
     display: flex; // stack left to right
     list-style-type: none; // no bullet points
     margin: 0; // clear margin values lists have by default
+    margin-bottom: 0.3rem;
+}
+
+.navList li {
+    margin-bottom: 0;
 }
 
 .navItem {
