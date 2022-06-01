@@ -3,13 +3,14 @@
 
 # Todo 
 - [x] Responsive PDF
+- [ ] On iOS, the HR diamond cuts into the about nav item
 - [] Learn Flexbox for layout
 - [] Create a flexbox footer
 - [] Hamburger menu for mobile
 - [] Light/dark mode
 - [] Create an email form on contact page
 - [x] Remove window controls from code snippet 
-- [] When rendering markdown, the dropdown triangle is missing from detail/summary components, why?
+- [] When rendering markdown, the dropdown triangle is missing from detail/summary components, only on Chrome, why?
 
 # Improvements
 
